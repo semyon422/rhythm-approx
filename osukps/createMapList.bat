@@ -1,0 +1,1 @@
+@where /R Songs *.osu > maps.txt
